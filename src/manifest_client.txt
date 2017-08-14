@@ -1,0 +1,3 @@
+Manifest-Version: 1.0.0.0
+Main-Class: com.cablelabs.time.client.CableLabsTimeClient
+Class-Path: . lib/commons-cli/commons-cli-1.4.jar

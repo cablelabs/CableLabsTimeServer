@@ -1,0 +1,12 @@
+
+# Mac OS X resource fork
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# Binaries
+bin
+dist
